@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mark_Open Training</name>
+   <tag></tag>
+   <elementGuidId>fa18fa72-6891-4b0e-bfac-cb710d4e1255</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;virtualAutocompleteListbox_197818e94ca76&quot;]/li/a/span/mark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mark</value>
+      <webElementGuid>90fee277-dca4-4deb-9c82-b37b8045b434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>3208:0</value>
+      <webElementGuid>b7435a74-5208-47ce-a67f-d1dabd5deefc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open Training</value>
+      <webElementGuid>1e680c65-c354-4293-b552-5615357cc412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;virtualAutocompleteListbox_197818e94ca76&quot;)/li[@class=&quot;slds-dropdown__item has-icon--left   forceVirtualAutocompleteMenuOption&quot;]/a[1]/span[@class=&quot;virtualAutocompleteOptionText&quot;]/mark[1]</value>
+      <webElementGuid>39154f61-f0f8-41ad-9093-adf1aed2b63f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mark[(text() = 'Open Training' or . = 'Open Training')]</value>
+      <webElementGuid>cfc840f7-9335-4616-bb4b-b7f82f5f1f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='virtualAutocompleteListbox_197818e94ca76']/li/a/span/mark</value>
+      <webElementGuid>3935ce1d-d152-4492-90d1-a904511ce46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[1]/following::mark[1]</value>
+      <webElementGuid>fd59701b-937c-4387-8034-1840bc2b9ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::mark[1]</value>
+      <webElementGuid>0ee124ad-e568-4958-8ecc-9e3af6ccd39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[1]/preceding::mark[1]</value>
+      <webElementGuid>0476d8e7-5abc-4524-872d-c9d94cf43dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/preceding::mark[1]</value>
+      <webElementGuid>f3a8f891-3466-4411-b8aa-696d6e3cc515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mark</value>
+      <webElementGuid>fae322eb-4ed4-47b4-a2c0-b4c8965b0c17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

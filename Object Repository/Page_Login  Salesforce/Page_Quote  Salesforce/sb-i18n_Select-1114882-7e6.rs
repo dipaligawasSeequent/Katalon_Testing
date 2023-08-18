@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sb-i18n_Select-1114882-7e6</name>
+   <tag></tag>
+   <elementGuidId>3ec20f78-17ee-414a-99d6-a25566d865ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>sb-page-header.--desktop > div.actions.normal > #plSelect > sb-i18n</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//paper-button[@id='plSelect']/sb-i18n</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sb-i18n</value>
+      <webElementGuid>fa6b9b90-0498-4bc3-a084-04e31207ae2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>228db746-ad41-44ef-aba1-e061a6b254b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/sb-page-header[@class=&quot;--desktop&quot;]/div[@class=&quot;actions normal&quot;]/paper-button[@id=&quot;plSelect&quot;]/sb-i18n[1]</value>
+      <webElementGuid>8ef59ea7-0240-4b6c-9662-f71789614cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Login  Salesforce/Page_Quote  Salesforce/iframe_Skip to the top of the activity timeline_vfFrameId_1691371114882</value>
+      <webElementGuid>4ac48880-10d9-4df0-9740-369d9f9676c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b73ec0b6-e82e-459a-a8b2-e9557630d861</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//paper-button[@id='plSelect']/sb-i18n</value>
+      <webElementGuid>d9016076-25b4-4e7c-a3b3-240c95272074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>978cba56-6d14-4ea1-a843-76912c98d5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//sb-i18n[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>7d73a3b3-4224-475b-8ae1-168f9b4ad25f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

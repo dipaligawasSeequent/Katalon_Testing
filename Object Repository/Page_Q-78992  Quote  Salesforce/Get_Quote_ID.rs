@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Get_Quote_ID</name>
+   <tag></tag>
+   <elementGuidId>066a56e7-bf16-4907-a9ac-2c0664429b22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sectionContent-1313 > div.slds-form > slot > records-record-layout-row.slds-form__row > slot.slds-grid.slds-size_1-of-1 > records-record-layout-item.slds-form__item.slds-no-space > div.slds-grid.slds-size_1-of-1.label-stacked > div.slds-form-element.slds-hint-parent.test-id__output-root.slds-form-element_readonly.is-stacked.is-stacked-not-editing > div.slds-form-element__control > span.test-id__field-value.slds-form-element__static.slds-grow.word-break-ie11.is-read-only</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'test-id__field-value slds-form-element__static slds-grow word-break-ie11 is-read-only']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sectionContent-1313']/div/slot/records-record-layout-row/slot/records-record-layout-item/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9fa18071-a881-43c5-95ca-536dff2d5dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>test-id__field-value slds-form-element__static slds-grow word-break-ie11 is-read-only</value>
+      <webElementGuid>73308707-5be8-45c5-98d1-f6430b4be630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Q-78992</value>
+      <webElementGuid>e26622dd-5c6f-4d62-bb99-3d1622cdd2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionContent-1313&quot;)/div[@class=&quot;slds-form&quot;]/slot[1]/records-record-layout-row[@class=&quot;slds-form__row&quot;]/slot[@class=&quot;slds-grid slds-size_1-of-1&quot;]/records-record-layout-item[@class=&quot;slds-form__item slds-no-space&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-stacked&quot;]/div[@class=&quot;slds-form-element slds-hint-parent test-id__output-root slds-form-element_readonly is-stacked is-stacked-not-editing&quot;]/div[@class=&quot;slds-form-element__control&quot;]/span[@class=&quot;test-id__field-value slds-form-element__static slds-grow word-break-ie11 is-read-only&quot;]</value>
+      <webElementGuid>04682ae8-3e3e-4d32-a51e-6eb57cf76267</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Q-78992' or . = 'Q-78992')]</value>
+      <webElementGuid>241bd920-dadd-448b-a507-d74c1b813d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-1313']/div/slot/records-record-layout-row/slot/records-record-layout-item/div/div/div[2]/span</value>
+      <webElementGuid>c423f81f-ac1f-4ebe-a269-777920856ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quote Number'])[1]/following::span[1]</value>
+      <webElementGuid>b0e0926f-f18b-4310-af65-34c10dd34ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabs'])[10]/following::span[3]</value>
+      <webElementGuid>6c2a02d4-6bab-44e3-b3e3-129b12ea125d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity'])[3]/preceding::span[1]</value>
+      <webElementGuid>ebe223b9-f1f3-4c70-bb2b-46b487f1ca6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//forcegenerated-detailpanel_sbqq__quote__c___012000000000000aaa___full___view___recordlayout2/records-record-layout-block/slot/records-record-layout-section[2]/div/div/div/slot/records-record-layout-row/slot/records-record-layout-item/div/div/div[2]/span</value>
+      <webElementGuid>92eee4dc-652f-4c56-8ee2-8e69402f66e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

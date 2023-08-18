@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select a List View Tasks</name>
+   <tag></tag>
+   <elementGuidId>65ea78da-499c-4fb2-b1d2-f3e8e19f2493</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button--reset.downIcon.slds-m-top_xxx-small.slds-p-right_xxx-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@title = 'Select a List View: Tasks' and (text() = 'Select a List View: Tasks' or . = 'Select a List View: Tasks')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf81dbcd-47e8-41c9-9396-bb76aaf666e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d650699e-d3a7-4a1e-9ca3-0ba0f7903555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1ad801eb-de42-4115-a388-c591ca39a149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select a List View: Tasks</value>
+      <webElementGuid>6b89bedc-ce93-4399-9d64-0770b623ea11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button--reset downIcon slds-m-top_xxx-small slds-p-right_xxx-small</value>
+      <webElementGuid>ca8503ac-062d-48a8-9378-476269a6077f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>62:561;a</value>
+      <webElementGuid>1f264d43-c0ce-40b2-8b02-a8a6d1592544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a List View: Tasks</value>
+      <webElementGuid>94d3ec51-ca61-47cf-ba38-87b3a991cfa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;forceAbstractBorderLayout runtime_sales_activitiesTaskBorderLayout&quot;]/div[@class=&quot;borderLayoutRegion centerRegion&quot;]/div[@class=&quot;leftRegion&quot;]/div[@class=&quot;centerRegion&quot;]/div[@class=&quot;oneConsoleObjectHome&quot;]/div[@class=&quot;slds-split-view test-listViewManager slds-card slds-card_boundary slds-grid slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-split-view__header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-has-flexi-truncate firstHeaderRow&quot;]/div[@class=&quot;slds-media slds-no-space slds-grow&quot;]/div[@class=&quot;slds-media__body slds-align-middle&quot;]/div[@class=&quot;slds-grid slds-media__body&quot;]/div[@class=&quot;slds-truncate&quot;]/div[@class=&quot;triggerLink slds-button slds-button--reset slds-type-focus slds-truncate slds-page-header__title slds-text-color--default triggerLinkFocused forceListViewPicker&quot;]/div[@class=&quot;triggerLinkTextAndIconWrapper slds-page-header__name&quot;]/div[@class=&quot;slds-page-header__name-switcher&quot;]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/button[@class=&quot;slds-button slds-button--reset downIcon slds-m-top_xxx-small slds-p-right_xxx-small&quot;]</value>
+      <webElementGuid>03a5246e-a62d-44c9-8cee-a98e13adbe2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Select a List View: Tasks' and (text() = 'Select a List View: Tasks' or . = 'Select a List View: Tasks')]</value>
+      <webElementGuid>3d3285bf-d693-415d-b219-cfeaa8e6a9c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>61a1769b-08dc-42d2-92a7-a769b5d67de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recently Viewed'])[1]/following::button[1]</value>
+      <webElementGuid>4d83a768-a29d-4878-8485-91b898888311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[2]/following::button[1]</value>
+      <webElementGuid>637137a9-be2b-4038-8a0b-8edb56009d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This list is pinned'])[1]/preceding::button[1]</value>
+      <webElementGuid>cb2d0805-f092-4dfc-a9d9-c69874014dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/button</value>
+      <webElementGuid>a3b99b06-ea42-4f08-98bf-fdf36cb45aaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

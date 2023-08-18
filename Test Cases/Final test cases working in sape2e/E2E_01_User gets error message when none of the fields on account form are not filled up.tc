@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E_01_User gets error message when none of the fields on account form are not filled up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d62b46c3-311d-4cce-a18b-9df76ad4904c</testCaseGuid>
+</TestCaseEntity>

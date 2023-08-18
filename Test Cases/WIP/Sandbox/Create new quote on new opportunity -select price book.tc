@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create new quote on new opportunity -select price book</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83c1841f-13ee-4ad0-8229-cd27e535f83d</testCaseGuid>
+</TestCaseEntity>

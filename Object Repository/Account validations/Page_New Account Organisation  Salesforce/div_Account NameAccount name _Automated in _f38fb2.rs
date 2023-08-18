@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account NameAccount name _Automated in _f38fb2</name>
+   <tag></tag>
+   <elementGuidId>82bc3fa6-3cde-41f5-a78e-dee53fc0e3a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-form.slds-form_stacked.slds-is-editing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Account Name*&quot;Account name _Automated&quot; in Loading...Show more »To remove the selected record, press Backspace or Del.Complete this field.Global AccountLegal NameBilling Account (Push to SAP)Parent AccountShow more »To remove the selected record, press Backspace or Del.Revenue TierAccount OwnerAuto Gene2Total Hierarchy Annual RevenueAccount OrchestratorShow more »To remove the selected record, press Backspace or Del.Hierarchy Revenue TierSales RegionAccount Potential--None--Sub RegionTax Reg. NumberManaged by AME PartnerUsed to reference Account sharing rules to determine if the AME partner manager can access AccountsTax ExemptApproval StatusUnsubmittedE365Payment TermsDue on receipt of invoiceOrganization Type*AcademicComplete this field.Segment*EnergyComplete this field.View all dependenciesSubsegment*Carbon Capture StorageView all dependencies' or . = 'Account Name*&quot;Account name _Automated&quot; in Loading...Show more »To remove the selected record, press Backspace or Del.Complete this field.Global AccountLegal NameBilling Account (Push to SAP)Parent AccountShow more »To remove the selected record, press Backspace or Del.Revenue TierAccount OwnerAuto Gene2Total Hierarchy Annual RevenueAccount OrchestratorShow more »To remove the selected record, press Backspace or Del.Hierarchy Revenue TierSales RegionAccount Potential--None--Sub RegionTax Reg. NumberManaged by AME PartnerUsed to reference Account sharing rules to determine if the AME partner manager can access AccountsTax ExemptApproval StatusUnsubmittedE365Payment TermsDue on receipt of invoiceOrganization Type*AcademicComplete this field.Segment*EnergyComplete this field.View all dependenciesSubsegment*Carbon Capture StorageView all dependencies')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23fec437-1603-42cc-9938-9854f0581016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-form slds-form_stacked slds-is-editing</value>
+      <webElementGuid>bcfc5998-24aa-429b-a494-9e6d96ff5ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>865:1382;a</value>
+      <webElementGuid>a3c7f821-02d2-4beb-ab8c-9454d59e8c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Name*&quot;Account name _Automated&quot; in Loading...Show more »To remove the selected record, press Backspace or Del.Complete this field.Global AccountLegal NameBilling Account (Push to SAP)Parent AccountShow more »To remove the selected record, press Backspace or Del.Revenue TierAccount OwnerAuto Gene2Total Hierarchy Annual RevenueAccount OrchestratorShow more »To remove the selected record, press Backspace or Del.Hierarchy Revenue TierSales RegionAccount Potential--None--Sub RegionTax Reg. NumberManaged by AME PartnerUsed to reference Account sharing rules to determine if the AME partner manager can access AccountsTax ExemptApproval StatusUnsubmittedE365Payment TermsDue on receipt of invoiceOrganization Type*AcademicComplete this field.Segment*EnergyComplete this field.View all dependenciesSubsegment*Carbon Capture StorageView all dependencies</value>
+      <webElementGuid>7b2b92cb-849a-4b48-9d1f-62623cc946c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;8:1382;a&quot;)/div[@class=&quot;slds-form slds-form_stacked slds-is-editing&quot;]</value>
+      <webElementGuid>df3342fd-f321-4aa6-ad54-7d5d49de1c01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account Name*&quot;Account name _Automated&quot; in Loading...Show more »To remove the selected record, press Backspace or Del.Complete this field.Global AccountLegal NameBilling Account (Push to SAP)Parent AccountShow more »To remove the selected record, press Backspace or Del.Revenue TierAccount OwnerAuto Gene2Total Hierarchy Annual RevenueAccount OrchestratorShow more »To remove the selected record, press Backspace or Del.Hierarchy Revenue TierSales RegionAccount Potential--None--Sub RegionTax Reg. NumberManaged by AME PartnerUsed to reference Account sharing rules to determine if the AME partner manager can access AccountsTax ExemptApproval StatusUnsubmittedE365Payment TermsDue on receipt of invoiceOrganization Type*AcademicComplete this field.Segment*EnergyComplete this field.View all dependenciesSubsegment*Carbon Capture StorageView all dependencies' or . = 'Account Name*&quot;Account name _Automated&quot; in Loading...Show more »To remove the selected record, press Backspace or Del.Complete this field.Global AccountLegal NameBilling Account (Push to SAP)Parent AccountShow more »To remove the selected record, press Backspace or Del.Revenue TierAccount OwnerAuto Gene2Total Hierarchy Annual RevenueAccount OrchestratorShow more »To remove the selected record, press Backspace or Del.Hierarchy Revenue TierSales RegionAccount Potential--None--Sub RegionTax Reg. NumberManaged by AME PartnerUsed to reference Account sharing rules to determine if the AME partner manager can access AccountsTax ExemptApproval StatusUnsubmittedE365Payment TermsDue on receipt of invoiceOrganization Type*AcademicComplete this field.Segment*EnergyComplete this field.View all dependenciesSubsegment*Carbon Capture StorageView all dependencies')]</value>
+      <webElementGuid>881859b5-04b3-42d4-b60b-8ad01485e93b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='8:1382;a']/div</value>
+      <webElementGuid>b14177e0-905d-4332-b358-102a35e64df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[1]/following::div[2]</value>
+      <webElementGuid>f2d94046-0ff4-4162-ad88-4637971deb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='These required fields must be completed: Account Name, Organization Type, Phone, Segment'])[1]/following::div[5]</value>
+      <webElementGuid>a07e140c-75bb-4951-8875-0bf970d7b20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div[3]/div/div/div/div</value>
+      <webElementGuid>6d28c495-b951-4997-a159-aafefe13fc6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

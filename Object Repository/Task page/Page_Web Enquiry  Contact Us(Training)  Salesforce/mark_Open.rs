@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mark_Open</name>
+   <tag></tag>
+   <elementGuidId>48f3fc34-0971-4a52-abc5-e00c0ba3ef9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mark[(text() = 'Open' or . = 'Open')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mark</value>
+      <webElementGuid>e877c32f-6d57-48d3-92ce-e8f7317ad412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>3043:0</value>
+      <webElementGuid>0ffc147d-c3cc-43de-aa9f-fe60a5cf1821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>6e24f0a4-e557-4a5b-982f-c25835309785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;virtualAutocompleteListbox_95fa6ba23dac&quot;)/li[@class=&quot;slds-dropdown__item has-icon--left   forceVirtualAutocompleteMenuOption&quot;]/a[1]/span[@class=&quot;virtualAutocompleteOptionText&quot;]/mark[1]</value>
+      <webElementGuid>e5502494-98cb-43c3-ae1a-21e7e9143c99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mark[(text() = 'Open' or . = 'Open')]</value>
+      <webElementGuid>d8e03dff-cf1c-48c5-9391-0a814a4cfe98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='virtualAutocompleteListbox_95fa6ba23dac']/li[3]/a/span/mark</value>
+      <webElementGuid>491072f4-98fe-49ec-9532-18e0f4d02e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[3]/following::mark[1]</value>
+      <webElementGuid>85816c3a-c96f-4667-a537-4417d9532f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[1]/preceding::mark[1]</value>
+      <webElementGuid>6833e951-b576-448a-a806-bac1314852b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/preceding::mark[1]</value>
+      <webElementGuid>1ef762f8-ccfe-4e8e-99a2-ff73cfbd4ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span/mark</value>
+      <webElementGuid>aae2c751-5f50-4073-bf14-0355ccbd9a53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

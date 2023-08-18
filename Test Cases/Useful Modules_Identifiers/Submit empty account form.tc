@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Error message verification</description>
+   <name>Submit empty account form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee28591b-3182-4fa8-8cfd-270e9e26de18</testCaseGuid>
+</TestCaseEntity>

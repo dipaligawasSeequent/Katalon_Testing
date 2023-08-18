@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dipali Gawas</name>
+   <tag></tag>
+   <elementGuidId>5ea43086-c31c-49e3-9a29-4fd98a4371ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#window</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id = 'window' and (text() = 'Dipali Gawas' or . = 'Dipali Gawas')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0703fd5b-4e68-435f-8f78-e289a98f8222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-proxy-id</name>
+      <type>Main</type>
+      <value>aura-pos-lib-1</value>
+      <webElementGuid>f351f440-a02a-4b14-a2b1-6e17cba9bda1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>window</value>
+      <webElementGuid>b7c040bc-4c98-4974-8f75-d2340617fd78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dipali Gawas</value>
+      <webElementGuid>648f934c-973b-4ae8-aac2-b38e7056d475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;window&quot;)</value>
+      <webElementGuid>06d39650-cfcd-4a9b-8516-791921df4019</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'window' and (text() = 'Dipali Gawas' or . = 'Dipali Gawas')]</value>
+      <webElementGuid>8cfd660e-5fd7-48fa-baba-6c7d92c58b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='window']</value>
+      <webElementGuid>5a95fa4e-88fa-4aa3-b05a-153e6ea3908f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-368']/div/slot/records-record-layout-row[4]/slot/records-record-layout-item/div/div/div[2]/span/slot/force-owner-lookup/div/span/force-lookup/div/records-hoverable-link/div/a/slot/slot/span</value>
+      <webElementGuid>77a6923f-d91b-441e-9b66-4c3d355ddc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Owner'])[1]/following::span[4]</value>
+      <webElementGuid>a5111da5-e9ea-4ee4-9311-37c1e4aaf015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Account (Push to SAP)'])[2]/following::span[5]</value>
+      <webElementGuid>c2148ffa-2ea9-4b8c-90a4-649521f36389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Dipali Gawas Preview'])[1]/preceding::span[1]</value>
+      <webElementGuid>0cda20b5-11a2-4c3b-bd2d-a825f180661e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Owner'])[2]/preceding::span[2]</value>
+      <webElementGuid>5f23da7d-9e39-40f9-8041-d9ac45a06c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dipali Gawas']/parent::*</value>
+      <webElementGuid>e5cbba0d-6479-4ede-89e5-28bbc50daff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//slot/span</value>
+      <webElementGuid>601367a1-b9f5-4d53-8b90-eb2821c2ab37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

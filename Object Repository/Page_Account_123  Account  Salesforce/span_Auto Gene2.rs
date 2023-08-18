@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Auto Gene2</name>
+   <tag></tag>
+   <elementGuidId>a0f3ca44-1a83-42fe-85e6-4ddd5f080e02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.flex-wrap-ie11.owner-name.slds-grow > force-lookup > div.slds-grid > records-hoverable-link.slds-grow.flex-wrap-ie11 > div.slds-grid > a.flex-wrap-ie11 > slot > slot > #window</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id = 'window' and (text() = 'Auto Gene2' or . = 'Auto Gene2')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed4fea42-b121-4d83-ab46-75f1bb3a90a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-proxy-id</name>
+      <type>Main</type>
+      <value>aura-pos-lib-4</value>
+      <webElementGuid>d39137a4-8715-4eda-8f96-f1739d472a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>window</value>
+      <webElementGuid>ca9413d4-f237-46c4-9e89-8c238d766190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Auto Gene2</value>
+      <webElementGuid>ab6ca69e-2683-4a0c-9fae-b835c9ef3d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionContent-398&quot;)/div[@class=&quot;slds-form&quot;]/slot[1]/records-record-layout-row[@class=&quot;slds-form__row&quot;]/slot[@class=&quot;slds-grid slds-size_1-of-1&quot;]/records-record-layout-item[@class=&quot;slds-form__item slds-no-space&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-stacked&quot;]/div[@class=&quot;slds-form-element slds-hint-parent test-id__output-root slds-form-element_readonly is-stacked is-stacked-not-editing&quot;]/div[@class=&quot;slds-form-element__control&quot;]/span[@class=&quot;test-id__field-value slds-form-element__static slds-grow word-break-ie11 is-read-only&quot;]/slot[1]/force-owner-lookup[1]/div[@class=&quot;slds-grid&quot;]/span[@class=&quot;flex-wrap-ie11 owner-name slds-grow&quot;]/force-lookup[1]/div[@class=&quot;slds-grid&quot;]/records-hoverable-link[@class=&quot;slds-grow flex-wrap-ie11&quot;]/div[@class=&quot;slds-grid&quot;]/a[@class=&quot;flex-wrap-ie11&quot;]/slot[1]/slot[1]/span[@id=&quot;window&quot;]</value>
+      <webElementGuid>b27a2511-ff34-4455-9add-c6488038f6da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'window' and (text() = 'Auto Gene2' or . = 'Auto Gene2')]</value>
+      <webElementGuid>fa78e2b5-d575-45ac-a63a-3b8ff577f520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='window'])[2]</value>
+      <webElementGuid>52ab568e-5c6a-48e3-b2b8-a491421f824d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-398']/div/slot/records-record-layout-row[4]/slot/records-record-layout-item/div/div/div[2]/span/slot/force-owner-lookup/div/span/force-lookup/div/records-hoverable-link/div/a/slot/slot/span</value>
+      <webElementGuid>a03420ce-c4b4-4801-a2be-9f3ba7a33b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Owner'])[1]/following::span[4]</value>
+      <webElementGuid>e65b7f88-28fd-4e9f-bb33-d732acd49271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Account (Push to SAP)'])[2]/following::span[5]</value>
+      <webElementGuid>0c8b02ae-eb04-408c-9e9c-e6f41ce86863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Auto Gene2 Preview'])[1]/preceding::span[1]</value>
+      <webElementGuid>e12e89e8-fe52-491e-b8f8-52029f5a6b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Owner'])[2]/preceding::span[2]</value>
+      <webElementGuid>ef8c2b6f-e281-4a42-b226-4766d38f7159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Auto Gene2']/parent::*</value>
+      <webElementGuid>5ec897b3-437c-41af-89dd-fa946e2a9d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/force-lookup/div/records-hoverable-link/div/a/slot/slot/span</value>
+      <webElementGuid>7846caea-453b-49ee-8f0f-5ea7ee90f3e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

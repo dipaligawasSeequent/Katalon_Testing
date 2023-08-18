@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-formatted-text_Q-38998</name>
+   <tag></tag>
+   <elementGuidId>cc3c0a05-6187-4923-acab-f254a5e6cf84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sectionContent-2351 > div.slds-form > slot > records-record-layout-row.slds-form__row > slot.slds-grid.slds-size_1-of-1 > records-record-layout-item.slds-form__item.slds-no-space > div.slds-grid.slds-size_1-of-1.label-stacked > div.slds-form-element.slds-hint-parent.test-id__output-root.slds-form-element_readonly.is-stacked.is-stacked-not-editing > div.slds-form-element__control > span.test-id__field-value.slds-form-element__static.slds-grow.word-break-ie11.is-read-only > slot[name=&quot;outputField&quot;] > lightning-formatted-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-formatted-text[(text() = 'Q-38998' or . = 'Q-38998')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-formatted-text</value>
+      <webElementGuid>e79efa9e-5b2e-476a-b51a-23a31fc5774f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-output-element-id</name>
+      <type>Main</type>
+      <value>output-field</value>
+      <webElementGuid>35fd8d5a-ddcf-4272-86e5-6d2e5754516d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>slot</name>
+      <type>Main</type>
+      <value>outputField</value>
+      <webElementGuid>d206e45a-2181-432b-9e95-5a32e109aa56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Q-38998</value>
+      <webElementGuid>c2b50060-7e48-4c70-a96a-9c066fce0d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionContent-2351&quot;)/div[@class=&quot;slds-form&quot;]/slot[1]/records-record-layout-row[@class=&quot;slds-form__row&quot;]/slot[@class=&quot;slds-grid slds-size_1-of-1&quot;]/records-record-layout-item[@class=&quot;slds-form__item slds-no-space&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-stacked&quot;]/div[@class=&quot;slds-form-element slds-hint-parent test-id__output-root slds-form-element_readonly is-stacked is-stacked-not-editing&quot;]/div[@class=&quot;slds-form-element__control&quot;]/span[@class=&quot;test-id__field-value slds-form-element__static slds-grow word-break-ie11 is-read-only&quot;]/slot[1]/lightning-formatted-text[1]</value>
+      <webElementGuid>e6209574-40f0-4688-9ee7-6ac11659178a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//lightning-formatted-text[(text() = 'Q-38998' or . = 'Q-38998')]</value>
+      <webElementGuid>541fbe57-a6f5-442b-8d63-41dc80de6680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-2351']/div/slot/records-record-layout-row/slot/records-record-layout-item/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>92852e36-d500-40e0-b537-76b3a67de440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quote Number'])[2]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>04218847-e66f-44c9-bfee-fcd1338fdbee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tabs'])[14]/following::lightning-formatted-text[1]</value>
+      <webElementGuid>b9d2c908-2e11-48fb-a869-bab11b6d2877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity'])[5]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>46613940-5662-452c-aa7b-3f35bb65b910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Opportunity'])[2]/preceding::lightning-formatted-text[1]</value>
+      <webElementGuid>89b1a181-322c-473f-9a7b-f5ebfb9a5013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Q-38998']/parent::*</value>
+      <webElementGuid>77ff0e86-ecbe-406e-a5bf-db5551b1e974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-quote_-record_-page___-s-b-q-q__-quote__c___-v-i-e-w/forcegenerated-flexipage_quote_record_page_sbqq__quote__c__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-template-desktop2/div/div[2]/div/slot/flexipage-component2/slot/flexipage-tabset2/div/lightning-tabset/div/slot/slot/flexipage-tab2/slot/flexipage-component2/slot/records-lwc-detail-panel/records-base-record-form/div/div/div/div/records-lwc-record-layout/forcegenerated-detailpanel_sbqq__quote__c___012000000000000aaa___full___view___recordlayout2/records-record-layout-block/slot/records-record-layout-section[2]/div/div/div/slot/records-record-layout-row/slot/records-record-layout-item/div/div/div[2]/span/slot/lightning-formatted-text</value>
+      <webElementGuid>c98f8a9f-a59e-451e-9d7c-6925c34d168d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

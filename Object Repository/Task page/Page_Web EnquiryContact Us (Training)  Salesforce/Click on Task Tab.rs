@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click on Task Tab</name>
+   <tag></tag>
+   <elementGuidId>b6d2cb22-12f3-461d-b814-26eda2517f59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>one-app-nav-bar-item-root.navItem.slds-context-bar__item.slds-shrink-none.slds-is-active > one-app-nav-bar-item-dropdown > div.slds-context-bar__label-action.slds-p-left--none > one-app-nav-bar-menu-button.slds-dropdown-trigger.slds-dropdown-trigger--click > a.slds-button.slds-button_reset > lightning-icon.slds-icon-utility-chevrondown.slds-icon_container > span > lightning-primitive-icon > svg.slds-icon.slds-icon-text-default.slds-icon_xx-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ee2ba667-8d06-40c3-97e2-cb450accf4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-icon slds-icon-text-default slds-icon_xx-small</value>
+      <webElementGuid>7b9a6e45-eff0-4101-87e6-e23ac86440d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0e559c0b-fa5a-4f21-8b53-f17fd08a8ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>chevrondown</value>
+      <webElementGuid>808059f9-3bb8-40a3-a86f-14a9a96602bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c2f7258f-2c3e-411c-bc92-e9fcd18b4801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 52 52</value>
+      <webElementGuid>2993cbe7-f500-4b8b-999d-b1d00131f201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>7db0fd5d-b70e-40b9-8670-c5ff6dfe8b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess tablet&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide hasFixedFooter&quot;]/div[@class=&quot;none navexStandardManager&quot;]/div[@class=&quot;slds-no-print oneAppNavContainer&quot;]/one-appnav[1]/div[@class=&quot;slds-context-bar&quot;]/one-app-nav-bar[@class=&quot;slds-grid slds-has-flexi-truncate&quot;]/nav[@class=&quot;slds-context-bar__secondary navCenter&quot;]/div[@class=&quot;slds-grid slds-has-flexi-truncate navUL&quot;]/one-app-nav-bar-item-root[@class=&quot;navItem slds-context-bar__item slds-shrink-none slds-is-active&quot;]/one-app-nav-bar-item-dropdown[1]/div[@class=&quot;slds-context-bar__label-action slds-p-left--none&quot;]/one-app-nav-bar-menu-button[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger--click&quot;]/a[@class=&quot;slds-button slds-button_reset&quot;]/lightning-icon[@class=&quot;slds-icon-utility-chevrondown slds-icon_container&quot;]/span[1]/lightning-primitive-icon[1]/svg[@class=&quot;slds-icon slds-icon-text-default slds-icon_xx-small&quot;]</value>
+      <webElementGuid>571b92c5-c976-4cde-a828-cbc37df9929e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Tasks</value>
+      <webElementGuid>01bc4553-b6b8-44dc-a4da-63663631ea6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8a4c3b29-52d7-4cc8-93ce-a7a8079dbc79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cases List'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>76fd88db-f8ed-4377-90bb-927210ac05be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks List'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>44d9d27c-975a-402b-b8f0-28f0c1c589ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forecasts'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>fd46ef32-b13b-4d5d-b9bf-344e19044def</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Task</name>
+   <tag></tag>
+   <elementGuidId>ad47f71e-8d8b-4190-8840-3f7f9d8ca757</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.slds-truncate > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[(text() = 'Task' or . = 'Task')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>1c409acc-ba10-40f8-baaa-1d5ab0133dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Task</value>
+      <webElementGuid>8e91ed5e-0da1-4f1c-92df-7c3d222af088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Task&quot;)/div[@class=&quot;slds-size_small&quot;]/lightning-formatted-rich-text[@class=&quot;al-menu-item-label slds-truncate slds-rich-text-editor__output&quot;]/span[1]/p[@class=&quot;slds-truncate&quot;]/b[1]</value>
+      <webElementGuid>39be9c2e-a52a-4e62-af4b-8d9651272d65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Task' or . = 'Task')]</value>
+      <webElementGuid>255c79ea-aefb-4df6-b3be-fc49ebf99ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='Task']/div/lightning-formatted-rich-text/span/p/b</value>
+      <webElementGuid>a6f2d9ba-08ef-40bb-b56b-6110fc014518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[1]/following::b[1]</value>
+      <webElementGuid>7e3a0387-5f13-4182-9052-3dab83b7f58d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/following::b[1]</value>
+      <webElementGuid>f3f28d35-dbb3-4618-8394-9e7ad2b30ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[2]/preceding::b[1]</value>
+      <webElementGuid>b6b10324-4d54-4177-91cb-30569c945e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/preceding::b[1]</value>
+      <webElementGuid>483bf0ba-70f4-427b-99b7-d6b299fcc861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Task']/parent::*</value>
+      <webElementGuid>051eb98b-d883-4d43-ae32-7c5c9e9d8e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/b</value>
+      <webElementGuid>137dfa6a-429c-4c30-8d51-d4f7dc15f529</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

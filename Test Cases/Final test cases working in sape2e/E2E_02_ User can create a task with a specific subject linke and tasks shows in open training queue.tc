@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E_02_ User can create a task with a specific subject linke and tasks shows in open training queue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>556b7b4e-3fed-4c4b-b4e1-14a9ffe6f1c4</testCaseGuid>
+</TestCaseEntity>

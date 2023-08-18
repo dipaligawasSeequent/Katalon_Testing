@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_01_User gets error message for empty form submittion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9c43613-c2a2-4c30-9c67-26ebbf8fc405</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Submit account form without phone during account creation</description>
+   <name>Submit account form without phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd33abc5-c980-4caf-b6c2-5801df068033</testCaseGuid>
+</TestCaseEntity>

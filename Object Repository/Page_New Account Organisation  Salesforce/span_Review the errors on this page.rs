@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Review the errors on this page</name>
+   <tag></tag>
+   <elementGuidId>18cae96f-a6ac-450d-a86c-b473f311f6a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.genericError.uiOutputText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Review the errors on this page.' or . = 'Review the errors on this page.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c95ea7e1-88a5-4d53-b93a-1f09a50943cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>genericError uiOutputText</value>
+      <webElementGuid>6d30cdea-f266-4692-aeeb-630694c8d566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>7868:0</value>
+      <webElementGuid>4b5cd625-6f9a-4601-b812-11e62dd6bf44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>uiOutputText</value>
+      <webElementGuid>f6cc1562-9400-4827-9df8-cc421d5ba5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review the errors on this page.</value>
+      <webElementGuid>bb7afaac-4f19-4780-a418-2ad1c2a90d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content_4100:0&quot;)/div[@class=&quot;windowViewMode-normal oneRecordActionWrapper isModal active lafPageHost&quot;]/div[@class=&quot;isModal inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;actionBody&quot;]/div[@class=&quot;slds-clearfix slds-card groupDependentFieldEnabled  allow-horizontal-form wide-input-break full-width forceDetailPanelDesktop&quot;]/article[1]/div[@class=&quot;pageLevelErrors&quot;]/div[@class=&quot;desktop forcePageError&quot;]/div[@class=&quot;genericNotification&quot;]/span[@class=&quot;genericError uiOutputText&quot;]</value>
+      <webElementGuid>c88aef03-e2d6-4288-a172-cbb9ba744556</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Review the errors on this page.' or . = 'Review the errors on this page.')]</value>
+      <webElementGuid>85e5ed7b-e67a-4811-b354-e1c751f6af24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content_4100:0']/div/div/div/div/article/div[2]/div/div/span</value>
+      <webElementGuid>d4cd80f7-2041-47b6-8e12-332671ad7c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Account: Organisation'])[1]/following::span[1]</value>
+      <webElementGuid>983ea7c8-a938-45f6-8ade-635f85c5e348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close this window'])[1]/following::span[1]</value>
+      <webElementGuid>dba00c3a-d765-4593-a57f-bc2e1b4bcce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='These required fields must be completed: Account Name, Organization Type, Phone, Segment'])[1]/preceding::span[1]</value>
+      <webElementGuid>6985e5d9-6152-452e-8437-d1997b9158a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[1]/preceding::span[1]</value>
+      <webElementGuid>cd0263bd-72d5-4e83-81c3-7e4100ca1b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Review the errors on this page.']/parent::*</value>
+      <webElementGuid>b938d76d-76fb-4da8-b7e1-b713724fe2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div[2]/div/div/span</value>
+      <webElementGuid>406e5cd0-05f3-4010-9642-8fda09ac90c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
