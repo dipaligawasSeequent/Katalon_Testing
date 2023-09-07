@@ -10,12 +10,12 @@
          <value>button[name=&quot;Opportunity.Create_New_Quote&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@name = 'Opportunity.Create_New_Quote' and @type = 'button' and (text() = 'New Quote' or . = 'New Quote')])[2]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'button' and (text() = 'New Quote' or . = 'New Quote')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name = 'Opportunity.Create_New_Quote' and @type = 'button' and (text() = 'New Quote' or . = 'New Quote')])</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8247ddb9-2591-40e9-b52d-1162b1bc17df</webElementGuid>
+      <webElementGuid>f8754f8f-d426-416a-af55-7c97d9b21d4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button slds-button_neutral</value>
-      <webElementGuid>12307726-112a-47d2-9226-8f61fe4ee7f0</webElementGuid>
+      <webElementGuid>9a022510-978f-4e97-a562-1537ebc04226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>21e43e59-8c24-49eb-bc59-b7e6c4b3b6d1</webElementGuid>
+      <webElementGuid>4853816b-858f-4d97-84e7-bfc3afd4b1d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Opportunity.Create_New_Quote</value>
-      <webElementGuid>ea41490d-96b4-428d-8030-329aa972fc86</webElementGuid>
+      <webElementGuid>8799cd8d-8dd8-4b9b-a63b-f50224f94091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bbdb00f2-685a-4b7e-97e5-0c9ba6a7d505</webElementGuid>
+      <webElementGuid>75ca6dd9-5bff-44e1-b4bf-4a497e6a757d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New Quote</value>
-      <webElementGuid>b754a882-1ff5-4f30-9a00-6bcc2e344e03</webElementGuid>
+      <webElementGuid>436b56cb-713c-4413-abc1-fdbfeb7af3b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;oneRecordHomeFlexipage2Wrapper&quot;]/div[@class=&quot;recordHomeFlexipage2&quot;]/one-record-home-flexipage2[1]/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-opportunity_-record_-page___-opportunity___-v-i-e-w[@class=&quot;adg-rollup-wrapped&quot;]/forcegenerated-flexipage_opportunity_record_page_opportunity__view_js[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-desktop-record-page-decorator[1]/div[@class=&quot;record-page-decorator&quot;]/records-record-layout-event-broker[1]/slot[1]/slot[1]/flexipage-record-home-with-subheader-template-desktop2[@class=&quot;forcegenerated-flexipage-template&quot;]/div[@class=&quot;slds-grid slds-wrap&quot;]/div[@class=&quot;slds-col slds-size_1-of-1 row region-header&quot;]/slot[1]/flexipage-component2[1]/slot[1]/records-lwc-highlights-panel[1]/records-lwc-record-layout[1]/forcegenerated-highlightspanel_opportunity___012000000000000aaa___compact___view___recordlayout2[@class=&quot;forcegenerated-record-layout2&quot;]/records-highlights2[1]/div[@class=&quot;highlights slds-clearfix slds-page-header slds-page-header_record-home fixed-position&quot;]/div[@class=&quot;slds-grid primaryFieldRow&quot;]/div[@class=&quot;slds-col slds-no-flex slds-grid slds-grid_vertical-align-center horizontal actionsContainer&quot;]/div[1]/runtime_platform_actions-actions-ribbon[1]/ul[@class=&quot;slds-button-group-list&quot;]/li[@class=&quot;visible&quot;]/runtime_platform_actions-action-renderer[1]/runtime_platform_actions-executor-page-reference[1]/slot[1]/slot[1]/lightning-button[1]/button[@class=&quot;slds-button slds-button_neutral&quot;]</value>
-      <webElementGuid>cfdbae0e-b7b1-4a16-bd3a-52b55f1a8759</webElementGuid>
+      <webElementGuid>b53415f6-2609-4552-a4f1-399c2e8d32f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'Opportunity.Create_New_Quote' and @type = 'button' and (text() = 'New Quote' or . = 'New Quote')]</value>
-      <webElementGuid>62c98299-65e4-4e80-a874-f3806e1b9b08</webElementGuid>
+      <webElementGuid>d1355f61-863e-4702-963d-3e1a8d52fc2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='Opportunity.Create_New_Quote']</value>
-      <webElementGuid>aaa3afd5-133e-44bc-ba0e-edbe6faf51af</webElementGuid>
+      <webElementGuid>83d9ac41-cef8-48b3-b7e8-7dcb581acceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div[2]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-opportunity_-record_-page___-opportunity___-v-i-e-w/forcegenerated-flexipage_opportunity_record_page_opportunity__view_js/record_flexipage-desktop-record-page-decorator/div/records-record-layout-event-broker/slot/slot/flexipage-record-home-with-subheader-template-desktop2/div/div/slot/flexipage-component2/slot/records-lwc-highlights-panel/records-lwc-record-layout/forcegenerated-highlightspanel_opportunity___012000000000000aaa___compact___view___recordlayout2/records-highlights2/div/div/div[3]/div/runtime_platform_actions-actions-ribbon/ul/li[2]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-page-reference/slot/slot/lightning-button/button</value>
-      <webElementGuid>f7a91ee6-dc6a-47a1-b75e-cc0eda48a234</webElementGuid>
+      <webElementGuid>3a8d1991-1a34-47d0-a702-6a171e5aca15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::button[1]</value>
-      <webElementGuid>5687e741-23df-4795-949b-9801da3944da</webElementGuid>
+      <webElementGuid>08a9ca28-b461-4494-bf84-8c0360a37aca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[2]/following::button[2]</value>
-      <webElementGuid>4ec84405-a7b8-4a9a-b694-2507fd76b402</webElementGuid>
+      <webElementGuid>da4529b6-5ebe-4277-ac21-f996bc3171a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Currency'])[1]/preceding::button[1]</value>
-      <webElementGuid>614613e5-b3bb-4d76-92c9-fbb9c0b14256</webElementGuid>
+      <webElementGuid>18110499-9f13-45b8-9b2e-49ffc3571c0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more actions'])[2]/preceding::button[2]</value>
-      <webElementGuid>0a719360-5ffd-4c8f-b17d-ea0810ed4298</webElementGuid>
+      <webElementGuid>7357c293-06bb-43ea-a723-585d07dc3862</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='New Quote']/parent::*</value>
-      <webElementGuid>9d1a518d-ff86-418b-bc87-b2b76445d787</webElementGuid>
+      <webElementGuid>a4c346cb-c1ec-4881-a5ea-34ce9a0ddcca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +146,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//forcegenerated-highlightspanel_opportunity___012000000000000aaa___compact___view___recordlayout2/records-highlights2/div/div/div[3]/div/runtime_platform_actions-actions-ribbon/ul/li[2]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-page-reference/slot/slot/lightning-button/button</value>
-      <webElementGuid>4497f0e2-62e7-4e49-b25d-f3389a2d231d</webElementGuid>
+      <webElementGuid>e1983d5b-24b2-4a0c-a079-d2ddb6bb0e43</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

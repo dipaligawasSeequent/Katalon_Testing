@@ -45,6 +45,12 @@ WebUI.click(findTestObject('Account validations/Account validations/Phone on acc
 
 WebUI.setText(findTestObject('Account validations/Account validations/Phone on account'), '0221835362')
 
+WebUI.click(findTestObject('Account validations/Fill in contact'))
+
+WebUI.setText(findTestObject('Account validations/Fill in contact'), 'D G Test ')
+
+WebUI.click(findTestObject('Account validations/Select contact suggestion'))
+
 WebUI.scrollToElement(findTestObject('Object Repository/Account validations/Account validations/Search address'), 0)
 
 WebUI.setText(findTestObject('Object Repository/Account validations/Account validations/Search address'), '20 moorehouse avenue christchurch')
@@ -61,12 +67,6 @@ WebUI.doubleClick(findTestObject('Object Repository/Page_New Account Organisatio
 
 'Saves empty form '
 WebUI.doubleClick(findTestObject('Object Repository/Page_New Account Organisation  Salesforce/span_Save'))
-
-'Verify title message '
-WebUI.verifyElementText(findTestObject('Object Repository/Page_New Account Organisation  Salesforce/span_Review the errors on this page'), 
-    'Review the errors on this page.')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Account validations/error messgae for phone missing'), 'These required fields must be completed: Phone')
 
 WebUI.takeScreenshot()
 

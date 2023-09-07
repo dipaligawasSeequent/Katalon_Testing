@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://seequentglobal--sape2e.sandbox.my.salesforce.com/')
 
 WebUI.navigateToUrl('https://seequentglobal--sape2e.sandbox.my.salesforce.com/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Username_username'), 'generaltestinguser2@seequent.com.sape2e')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_pw'), '2gkqhf5amx7QLoImy4eNs7o99WAzhvRbjTnY+1pe3Y4=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_pw'), '2gkqhf5amx7QLoImy4eNs7o99WAzhvRbRgYbLBDWfTQ=')
 
 WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_Login'))
 

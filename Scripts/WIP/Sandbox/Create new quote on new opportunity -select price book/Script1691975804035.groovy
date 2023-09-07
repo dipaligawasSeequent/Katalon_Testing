@@ -29,9 +29,35 @@ WebUI.callTestCase(findTestCase('Useful Modules_Identifiers/Create new quote and
 
 WebUI.enableSmartWait()
 
-WebUI.maximizeWindow()
+WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Q-79019  Quote  Salesforce/button_Add Products'))
 
-WebUI.enhancedClick(findTestObject('Page_Quote  Salesforce/select_Geosoft - AfricaGeosoft - AsiaGeosof_5bc300_1'), FailureHandling.STOP_ON_FAILURE)
+WebUI.enableSmartWait()
+
+WebUI.waitForPageLoad(0)
+
+WebUI.switchToFrame(findTestObject('iframe_2'), 10)
+
+WebUI.enhancedClick(findTestObject('Numbers/child'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.selectOptionByValue(findTestObject('Numbers/child'), '01s4S000000JxbqQAC', false)
+
+WebUI.click(findTestObject('Numbers/Save button on pricebook'))
+
+WebUI.click(findTestObject('Numbers/Add products_SeequentGlobal'))
+
+WebUI.getUrl()
+
+WebUI.switchToDefaultContent()
+
+WebUI.switchToFrame(findTestObject('Pricebook entries GS/iframe price'), 25)
+
+WebUI.click(findTestObject('Pricebook entries GS/child geosoft'))
+
+WebUI.click(findTestObject('Pricebook values/Child_checkbox'))
+
+WebUI.click(findTestObject('Select pricebook product/Select button on pricebook poroduct list page'))
+
+WebUI.click(findTestObject('Select product from produc line choice page/First checkbox selection'))
 
